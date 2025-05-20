@@ -9,7 +9,7 @@ import {
   FaBars,
   FaTimes,
 } from "react-icons/fa";
-import veredaLogo from "/Users/abhishekkumar/Desktop/Project-Vereda/frontend/vite-project/src/assets/vereda.png";
+import veredaLogo from "../../assets/vereda.png";
 import { useNavigate } from "react-router-dom";
 import { useEmailContext } from "../../StateManagement/EmailContext";
 
